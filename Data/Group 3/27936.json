@@ -1,0 +1,452 @@
+{
+    "AIF": {
+        "nodes": [
+            {
+                "nodeID": "2_169295004868928877",
+                "text": "there should be an article somewhere in the message",
+                "type": "I"
+            },
+            {
+                "nodeID": "3_169295004868928877",
+                "text": "Female 3: there should be an article, right, somewhere",
+                "type": "L"
+            },
+            {
+                "nodeID": "4_169295004868928877",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "5_169295004868928877",
+                "text": "Anon: Female 3: there should be an article, right, somewhere",
+                "type": "L"
+            },
+            {
+                "nodeID": "6_169295004868928877",
+                "text": "Assertive Questioning",
+                "type": "YA"
+            },
+            {
+                "nodeID": "7_169295004868928877",
+                "text": "it's hard to come up with the sentence without an article",
+                "type": "I"
+            },
+            {
+                "nodeID": "8_169295004868928877",
+                "text": "Female 3: it's hard to come up with the sentence without an article, right",
+                "type": "L"
+            },
+            {
+                "nodeID": "9_169295004868928877",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "10_169295004868928877",
+                "text": "Anon: Female 3: it's hard to come up with the sentence without an article, right",
+                "type": "L"
+            },
+            {
+                "nodeID": "11_169295004868928877",
+                "text": "Assertive Questioning",
+                "type": "YA"
+            },
+            {
+                "nodeID": "12_169295004868928877",
+                "text": "Default Inference",
+                "type": "RA"
+            },
+            {
+                "nodeID": "13_169295004868928877",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "14_169295004868928877",
+                "text": "Arguing",
+                "type": "YA"
+            }
+        ],
+        "edges": [
+            {
+                "edgeID": 1,
+                "fromID": "4_169295004868928877",
+                "toID": "3_169295004868928877"
+            },
+            {
+                "edgeID": 2,
+                "fromID": "5_169295004868928877",
+                "toID": "4_169295004868928877"
+            },
+            {
+                "edgeID": 3,
+                "fromID": "3_169295004868928877",
+                "toID": "6_169295004868928877"
+            },
+            {
+                "edgeID": 4,
+                "fromID": "6_169295004868928877",
+                "toID": "2_169295004868928877"
+            },
+            {
+                "edgeID": 5,
+                "fromID": "9_169295004868928877",
+                "toID": "8_169295004868928877"
+            },
+            {
+                "edgeID": 6,
+                "fromID": "10_169295004868928877",
+                "toID": "9_169295004868928877"
+            },
+            {
+                "edgeID": 7,
+                "fromID": "8_169295004868928877",
+                "toID": "11_169295004868928877"
+            },
+            {
+                "edgeID": 8,
+                "fromID": "11_169295004868928877",
+                "toID": "7_169295004868928877"
+            },
+            {
+                "edgeID": 9,
+                "fromID": "7_169295004868928877",
+                "toID": "12_169295004868928877"
+            },
+            {
+                "edgeID": 10,
+                "fromID": "12_169295004868928877",
+                "toID": "2_169295004868928877"
+            },
+            {
+                "edgeID": 11,
+                "fromID": "3_169295004868928877",
+                "toID": "13_169295004868928877"
+            },
+            {
+                "edgeID": 12,
+                "fromID": "13_169295004868928877",
+                "toID": "8_169295004868928877"
+            },
+            {
+                "edgeID": 13,
+                "fromID": "13_169295004868928877",
+                "toID": "14_169295004868928877"
+            },
+            {
+                "edgeID": 14,
+                "fromID": "14_169295004868928877",
+                "toID": "12_169295004868928877"
+            }
+        ],
+        "schemefulfillments": [
+            {
+                "nodeID": "4_169295004868928877",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "6_169295004868928877",
+                "schemeID": "73"
+            },
+            {
+                "nodeID": "9_169295004868928877",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "11_169295004868928877",
+                "schemeID": "73"
+            },
+            {
+                "nodeID": "12_169295004868928877",
+                "schemeID": "72"
+            },
+            {
+                "nodeID": "13_169295004868928877",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "14_169295004868928877",
+                "schemeID": "80"
+            }
+        ],
+        "participants": [
+            {
+                "participantID": 1,
+                "firstname": "Participant",
+                "surname": "Rachel"
+            },
+            {
+                "participantID": 2,
+                "firstname": "Participant",
+                "surname": "Carolyn"
+            },
+            {
+                "participantID": 3,
+                "firstname": "Participant",
+                "surname": "Mo"
+            },
+            {
+                "participantID": 4,
+                "firstname": "Participant",
+                "surname": "Zoe"
+            },
+            {
+                "participantID": 5,
+                "firstname": "Participant",
+                "surname": "Claire"
+            },
+            {
+                "participantID": 6,
+                "firstname": "Participant",
+                "surname": "Lee"
+            },
+            {
+                "participantID": 7,
+                "firstname": "Participant",
+                "surname": "Sally"
+            },
+            {
+                "participantID": 8,
+                "firstname": "Participant",
+                "surname": "Kalbir"
+            },
+            {
+                "participantID": 9,
+                "firstname": "Participant",
+                "surname": "Alice"
+            },
+            {
+                "participantID": 10,
+                "firstname": "Anne",
+                "surname": "Robinson"
+            },
+            {
+                "participantID": 11,
+                "firstname": "Diane",
+                "surname": "Munday"
+            },
+            {
+                "participantID": 12,
+                "firstname": "Neena",
+                "surname": "Modi"
+            },
+            {
+                "participantID": 13,
+                "firstname": "David",
+                "surname": "Steel"
+            },
+            {
+                "participantID": 14,
+                "firstname": "Neil",
+                "surname": "Lyndon"
+            },
+            {
+                "participantID": 15,
+                "firstname": "Female",
+                "surname": "3"
+            },
+            {
+                "participantID": 16,
+                "firstname": "Female",
+                "surname": "1"
+            },
+            {
+                "participantID": 17,
+                "firstname": "Female",
+                "surname": "2"
+            },
+            {
+                "participantID": 18,
+                "firstname": "Joan",
+                "surname": "Campbell"
+            }
+        ],
+        "locutions": [
+            {
+                "nodeID": "3_169295004868928877",
+                "personID": 15,
+                "start": "2023-05-16 17:21:04",
+                "end": null
+            },
+            {
+                "nodeID": "8_169295004868928877",
+                "personID": 15,
+                "start": "2023-05-16 17:21:12",
+                "end": null
+            }
+        ],
+        "descriptorfulfillments": [],
+        "cqdescriptorfulfillments": []
+    },
+    "text": "F3:\t[2023/05/16 17:20:54 GMT+0000] No.<br><br>F1:\tNo, that's nonsense.<br><br>F3:\tWell <span id=\"node3_169295004868928877\" class=\"highlighted\">there should be an article, right, somewhere</span>?<br><br>\tI mean, <span id=\"node8_169295004868928877\" class=\"highlighted\">it's hard to come up with the sentence without an article, right</span>?<br><br>F1:\tThis apostrophe, U, is annoying me.<br><br>F3:\tWho's\u2026<br><br>F1:\tWho's\u2026but then it's a double letter, which is weird, right?<br><br>F3:\tD, D, O\u2026U, and that's U, right?&nbsp; Could U, B, S?<br><br>F1:\tWe were trying to figure that out, but then it doesn't make sense for the rest of them.&nbsp; It wasn't aligning into words.&nbsp; Any luck?<br><br>F2:\tNo.<br><br>F1:\tNo?<br><br>F2:\tI've tried 'the' and 'at'.<br><br>F3:\t'It repeats.'&nbsp; The code repeats.<br><br>F1:\tThe code repeats, I knew it.&nbsp; The code repeats.&nbsp; Maybe we need to try the 138 pattern.&nbsp; So, for D we moved one, A, B, C\u2026<br><br>F2:\tActually there's a lot of Js.&nbsp; The most common letters are Js and Us.<br><br>F1:\tB, C\u2026<br><br>F2:\tActually there might be more Js than\u2026<br><br>F1:\tHold on, let me write this again.\t<br><br>F3:\t'The code repeat.'&nbsp; So I mean, like every word\u2026<br><br>F2:\tJ\u2026we want, one of these to have J\u2026J or U to be a vowel basically, I would say.&nbsp; It's only if these make J a vowel.&nbsp; That one doesn't.&nbsp; Oh, J makes I, this one I've crossed out, there's a J, I here.<br><br>\tAny others make\u2026?<br><br>F3:\tSo this is definitely a W, H word because this is a question, this is a sentence, so this is a W, H\u2026whose, where's, when's, what.&nbsp; So this is whose, maybe for every\u2026<br><br>\t[00:03:00]: look\u2026<br>",
+    "OVA": {
+        "firstname": "Anon",
+        "surname": "User",
+        "url": "",
+        "nodes": [
+            {
+                "nodeID": "2_169295004868928877",
+                "visible": true,
+                "x": 150,
+                "y": 60,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "3_169295004868928877",
+                "visible": true,
+                "x": 747,
+                "y": 61,
+                "timestamp": "Tue May 16 2023 18:21:04 GMT+0100"
+            },
+            {
+                "nodeID": "4_169295004868928877",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "5_169295004868928877",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "6_169295004868928877",
+                "visible": true,
+                "x": 458,
+                "y": 61,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "7_169295004868928877",
+                "visible": true,
+                "x": 162,
+                "y": 186,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "8_169295004868928877",
+                "visible": true,
+                "x": 775,
+                "y": 184,
+                "timestamp": "Tue May 16 2023 18:21:12 GMT+0100"
+            },
+            {
+                "nodeID": "9_169295004868928877",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "10_169295004868928877",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "11_169295004868928877",
+                "visible": true,
+                "x": 437,
+                "y": 196,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "12_169295004868928877",
+                "visible": true,
+                "x": 155,
+                "y": 141,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "13_169295004868928877",
+                "visible": true,
+                "x": 760,
+                "y": 144,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "14_169295004868928877",
+                "visible": true,
+                "x": 457,
+                "y": 153,
+                "timestamp": ""
+            }
+        ],
+        "edges": [
+            {
+                "fromID": "4_169295004868928877",
+                "toID": "3_169295004868928877",
+                "visible": false
+            },
+            {
+                "fromID": "5_169295004868928877",
+                "toID": "4_169295004868928877",
+                "visible": false
+            },
+            {
+                "fromID": "3_169295004868928877",
+                "toID": "6_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "6_169295004868928877",
+                "toID": "2_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "9_169295004868928877",
+                "toID": "8_169295004868928877",
+                "visible": false
+            },
+            {
+                "fromID": "10_169295004868928877",
+                "toID": "9_169295004868928877",
+                "visible": false
+            },
+            {
+                "fromID": "8_169295004868928877",
+                "toID": "11_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "11_169295004868928877",
+                "toID": "7_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "7_169295004868928877",
+                "toID": "12_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "12_169295004868928877",
+                "toID": "2_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "3_169295004868928877",
+                "toID": "13_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "13_169295004868928877",
+                "toID": "8_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "13_169295004868928877",
+                "toID": "14_169295004868928877",
+                "visible": true
+            },
+            {
+                "fromID": "14_169295004868928877",
+                "toID": "12_169295004868928877",
+                "visible": true
+            }
+        ]
+    }
+}

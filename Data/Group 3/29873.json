@@ -1,0 +1,843 @@
+{
+    "AIF": {
+        "nodes": [
+            {
+                "nodeID": "2_169254084843023138",
+                "text": "let's see if we can find out about the noise",
+                "type": "I"
+            },
+            {
+                "nodeID": "3_169254084843023138",
+                "text": "Female 1: Let's see, okay",
+                "type": "L"
+            },
+            {
+                "nodeID": "4_169254084843023138",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "5_169254084843023138",
+                "text": "Anon: Female 1: Let's see, okay",
+                "type": "L"
+            },
+            {
+                "nodeID": "6_169254084843023138",
+                "text": "Assertive Questioning",
+                "type": "YA"
+            },
+            {
+                "nodeID": "7_169254084843023138",
+                "text": "xxx is what Carmen is talking about the authorities",
+                "type": "I"
+            },
+            {
+                "nodeID": "8_169254084843023138",
+                "text": "Female 2: What's she saying about",
+                "type": "L"
+            },
+            {
+                "nodeID": "9_169254084843023138",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "10_169254084843023138",
+                "text": "Anon: Female 2: What's she saying about",
+                "type": "L"
+            },
+            {
+                "nodeID": "11_169254084843023138",
+                "text": "Pure Questioning",
+                "type": "YA"
+            },
+            {
+                "nodeID": "12_169254084843023138",
+                "text": "the authorities didn't bother to look any further than the spot where they found Nick's body",
+                "type": "I"
+            },
+            {
+                "nodeID": "13_169254084843023138",
+                "text": "Female 2: They didn't bother to look any further than the spot where they found Nick's body",
+                "type": "L"
+            },
+            {
+                "nodeID": "14_169254084843023138",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "15_169254084843023138",
+                "text": "Anon: Female 2: They didn't bother to look any further than the spot where they found Nick's body",
+                "type": "L"
+            },
+            {
+                "nodeID": "16_169254084843023138",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "17_169254084843023138",
+                "text": "Default Rephrase",
+                "type": "MA"
+            },
+            {
+                "nodeID": "18_169254084843023138",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "19_169254084843023138",
+                "text": "Default Illocuting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "20_169254084843023138",
+                "text": "the authorities haven't investigated the area",
+                "type": "I"
+            },
+            {
+                "nodeID": "21_169254084843023138",
+                "text": "Female 2: they haven't investigated the area",
+                "type": "L"
+            },
+            {
+                "nodeID": "22_169254084843023138",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "23_169254084843023138",
+                "text": "Anon: Female 2: they haven't investigated the area",
+                "type": "L"
+            },
+            {
+                "nodeID": "24_169254084843023138",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "25_169254084843023138",
+                "text": "Default Inference",
+                "type": "RA"
+            },
+            {
+                "nodeID": "26_169254084843023138",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "27_169254084843023138",
+                "text": "Arguing",
+                "type": "YA"
+            }
+        ],
+        "edges": [
+            {
+                "edgeID": 1,
+                "fromID": "4_169254084843023138",
+                "toID": "3_169254084843023138"
+            },
+            {
+                "edgeID": 2,
+                "fromID": "5_169254084843023138",
+                "toID": "4_169254084843023138"
+            },
+            {
+                "edgeID": 3,
+                "fromID": "3_169254084843023138",
+                "toID": "6_169254084843023138"
+            },
+            {
+                "edgeID": 4,
+                "fromID": "6_169254084843023138",
+                "toID": "2_169254084843023138"
+            },
+            {
+                "edgeID": 5,
+                "fromID": "9_169254084843023138",
+                "toID": "8_169254084843023138"
+            },
+            {
+                "edgeID": 6,
+                "fromID": "10_169254084843023138",
+                "toID": "9_169254084843023138"
+            },
+            {
+                "edgeID": 7,
+                "fromID": "8_169254084843023138",
+                "toID": "11_169254084843023138"
+            },
+            {
+                "edgeID": 8,
+                "fromID": "11_169254084843023138",
+                "toID": "7_169254084843023138"
+            },
+            {
+                "edgeID": 9,
+                "fromID": "14_169254084843023138",
+                "toID": "13_169254084843023138"
+            },
+            {
+                "edgeID": 10,
+                "fromID": "15_169254084843023138",
+                "toID": "14_169254084843023138"
+            },
+            {
+                "edgeID": 11,
+                "fromID": "13_169254084843023138",
+                "toID": "16_169254084843023138"
+            },
+            {
+                "edgeID": 12,
+                "fromID": "16_169254084843023138",
+                "toID": "12_169254084843023138"
+            },
+            {
+                "edgeID": 13,
+                "fromID": "12_169254084843023138",
+                "toID": "17_169254084843023138"
+            },
+            {
+                "edgeID": 14,
+                "fromID": "17_169254084843023138",
+                "toID": "7_169254084843023138"
+            },
+            {
+                "edgeID": 15,
+                "fromID": "8_169254084843023138",
+                "toID": "18_169254084843023138"
+            },
+            {
+                "edgeID": 16,
+                "fromID": "18_169254084843023138",
+                "toID": "13_169254084843023138"
+            },
+            {
+                "edgeID": 17,
+                "fromID": "18_169254084843023138",
+                "toID": "19_169254084843023138"
+            },
+            {
+                "edgeID": 18,
+                "fromID": "19_169254084843023138",
+                "toID": "17_169254084843023138"
+            },
+            {
+                "edgeID": 19,
+                "fromID": "22_169254084843023138",
+                "toID": "21_169254084843023138"
+            },
+            {
+                "edgeID": 20,
+                "fromID": "23_169254084843023138",
+                "toID": "22_169254084843023138"
+            },
+            {
+                "edgeID": 21,
+                "fromID": "21_169254084843023138",
+                "toID": "24_169254084843023138"
+            },
+            {
+                "edgeID": 22,
+                "fromID": "24_169254084843023138",
+                "toID": "20_169254084843023138"
+            },
+            {
+                "edgeID": 23,
+                "fromID": "12_169254084843023138",
+                "toID": "25_169254084843023138"
+            },
+            {
+                "edgeID": 24,
+                "fromID": "25_169254084843023138",
+                "toID": "20_169254084843023138"
+            },
+            {
+                "edgeID": 25,
+                "fromID": "13_169254084843023138",
+                "toID": "26_169254084843023138"
+            },
+            {
+                "edgeID": 26,
+                "fromID": "26_169254084843023138",
+                "toID": "21_169254084843023138"
+            },
+            {
+                "edgeID": 27,
+                "fromID": "26_169254084843023138",
+                "toID": "27_169254084843023138"
+            },
+            {
+                "edgeID": 28,
+                "fromID": "27_169254084843023138",
+                "toID": "25_169254084843023138"
+            }
+        ],
+        "schemefulfillments": [
+            {
+                "nodeID": "4_169254084843023138",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "6_169254084843023138",
+                "schemeID": "73"
+            },
+            {
+                "nodeID": "9_169254084843023138",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "11_169254084843023138",
+                "schemeID": "91"
+            },
+            {
+                "nodeID": "14_169254084843023138",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "16_169254084843023138",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "17_169254084843023138",
+                "schemeID": "144"
+            },
+            {
+                "nodeID": "18_169254084843023138",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "19_169254084843023138",
+                "schemeID": "168"
+            },
+            {
+                "nodeID": "22_169254084843023138",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "24_169254084843023138",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "25_169254084843023138",
+                "schemeID": "72"
+            },
+            {
+                "nodeID": "26_169254084843023138",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "27_169254084843023138",
+                "schemeID": "80"
+            }
+        ],
+        "participants": [
+            {
+                "participantID": 1,
+                "firstname": "Participant",
+                "surname": "Rachel"
+            },
+            {
+                "participantID": 2,
+                "firstname": "Participant",
+                "surname": "Carolyn"
+            },
+            {
+                "participantID": 3,
+                "firstname": "Participant",
+                "surname": "Mo"
+            },
+            {
+                "participantID": 4,
+                "firstname": "Participant",
+                "surname": "Zoe"
+            },
+            {
+                "participantID": 5,
+                "firstname": "Participant",
+                "surname": "Claire"
+            },
+            {
+                "participantID": 6,
+                "firstname": "Participant",
+                "surname": "Lee"
+            },
+            {
+                "participantID": 7,
+                "firstname": "Participant",
+                "surname": "Sally"
+            },
+            {
+                "participantID": 8,
+                "firstname": "Participant",
+                "surname": "Kalbir"
+            },
+            {
+                "participantID": 9,
+                "firstname": "Participant",
+                "surname": "Alice"
+            },
+            {
+                "participantID": 10,
+                "firstname": "Anne",
+                "surname": "Robinson"
+            },
+            {
+                "participantID": 11,
+                "firstname": "Diane",
+                "surname": "Munday"
+            },
+            {
+                "participantID": 12,
+                "firstname": "Neena",
+                "surname": "Modi"
+            },
+            {
+                "participantID": 13,
+                "firstname": "David",
+                "surname": "Steel"
+            },
+            {
+                "participantID": 14,
+                "firstname": "Neil",
+                "surname": "Lyndon"
+            },
+            {
+                "participantID": 15,
+                "firstname": "Female",
+                "surname": "1"
+            },
+            {
+                "participantID": 16,
+                "firstname": "Male",
+                "surname": "1"
+            },
+            {
+                "participantID": 17,
+                "firstname": "Female",
+                "surname": "2"
+            },
+            {
+                "participantID": 18,
+                "firstname": "Male",
+                "surname": "2"
+            },
+            {
+                "participantID": 19,
+                "firstname": "MM2",
+                "surname": ""
+            },
+            {
+                "participantID": 20,
+                "firstname": "Donna",
+                "surname": "Goddard"
+            },
+            {
+                "participantID": 21,
+                "firstname": "Donna",
+                "surname": "Marie Goddard"
+            },
+            {
+                "participantID": 22,
+                "firstname": "Nick",
+                "surname": "Webster"
+            },
+            {
+                "participantID": 23,
+                "firstname": "Nick's",
+                "surname": "Neighbour"
+            },
+            {
+                "participantID": 24,
+                "firstname": "Someone's",
+                "surname": "Neighbour"
+            },
+            {
+                "participantID": 25,
+                "firstname": "Female",
+                "surname": "3"
+            },
+            {
+                "participantID": 26,
+                "firstname": "Carmen",
+                "surname": "Rojas"
+            },
+            {
+                "participantID": 27,
+                "firstname": "Carole",
+                "surname": "Euber"
+            },
+            {
+                "participantID": 28,
+                "firstname": "Joan",
+                "surname": "Campbell"
+            },
+            {
+                "participantID": 29,
+                "firstname": "Dale",
+                "surname": "Lynch"
+            }
+        ],
+        "locutions": [
+            {
+                "nodeID": "3_169254084843023138",
+                "personID": 15,
+                "start": "2023-05-16 16:27:44",
+                "end": null
+            },
+            {
+                "nodeID": "8_169254084843023138",
+                "personID": 17,
+                "start": "2023-05-16 16:28:43",
+                "end": null
+            },
+            {
+                "nodeID": "13_169254084843023138",
+                "personID": 17,
+                "start": "2023-05-16 16:28:55",
+                "end": null
+            },
+            {
+                "nodeID": "21_169254084843023138",
+                "personID": 17,
+                "start": "2023-05-16 16:29:03",
+                "end": null
+            }
+        ],
+        "descriptorfulfillments": [],
+        "cqdescriptorfulfillments": []
+    },
+    "text": "F1:\t[2023/05/16 16:27:40 GMT+0000] <span id=\"node3_169254084843023138\" class=\"highlighted\">Let's see, okay</span>?<br><br>\t'I took the evidence round to the sheriff hoping it would change his mind, but he didn't care that Nick really was chasing after someone that night.&nbsp; The official determination is still that Nick slipped and fell of the cliff, but the thing is, I went out to the place where he died, and I don't think the authorities have even bothered to look any further than the spot where they found Nick's body.<br><br>\tThere was caution tape down on the rocks, but nothing on top of the cliff.'<br><br>F2:\t<span id=\"node8_169254084843023138\" class=\"highlighted\">What's she saying about</span>, they didn't even\u2026can I see that sentence?<br><br>\t'<span id=\"node13_169254084843023138\" class=\"highlighted\">They didn't bother to look any further than the spot where they found Nick's body</span>.<br><br>\tOkay, so <span id=\"node21_169254084843023138\" class=\"highlighted\">they haven't investigated the area</span>.&nbsp;&nbsp;<br><br>F1:\tSo she's saying, 'Caution tape on the rocks, but nothing up at the top of the cliff, near the ledge.&nbsp; It didn't look like it had been disturbed since Saturday night, and if the authorities had been there, there's no way they'd count out foul play.&nbsp; Someone in a devil mask really was there that night, and whoever it was, pushed Nick off that cliff.<br><br>\tThe sheriff may not believe me, but I must be making someone nervous by looking into Nick's death.&nbsp;<br><br>[00:02:20]: I've started to get threatening letters, just like the ones Nick was getting before he died.&nbsp; I'd be lying if I said I'm not scared, but those threats also prove I'm onto something, don't you think?'<br><br>F2:\tShe should be.&nbsp; I think so.<br><br>F1:\t'I know I'm close, but I've got questions I can't answer.&nbsp; I'm sending you all the evidence I've collected in the hope that you'll be able to do what I can't, and bring my friend's killer to justice before it's too late.&nbsp;&nbsp;<br><br>[00:02:37]: Sincerely, Carmen.<br>",
+    "OVA": {
+        "firstname": "Anon",
+        "surname": "User",
+        "url": "",
+        "nodes": [
+            {
+                "nodeID": "2_169254084843023138",
+                "visible": true,
+                "x": 150,
+                "y": 60,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "3_169254084843023138",
+                "visible": true,
+                "x": 776,
+                "y": 65,
+                "timestamp": "Tue May 16 2023 17:27:44 GMT+0100"
+            },
+            {
+                "nodeID": "4_169254084843023138",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "5_169254084843023138",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "6_169254084843023138",
+                "visible": true,
+                "x": 469,
+                "y": 67,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "7_169254084843023138",
+                "visible": true,
+                "x": 153,
+                "y": 191,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "8_169254084843023138",
+                "visible": true,
+                "x": 782,
+                "y": 196,
+                "timestamp": "Tue May 16 2023 17:28:43 GMT+0100"
+            },
+            {
+                "nodeID": "9_169254084843023138",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "10_169254084843023138",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "11_169254084843023138",
+                "visible": true,
+                "x": 439,
+                "y": 199,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "12_169254084843023138",
+                "visible": true,
+                "x": 159,
+                "y": 302,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "13_169254084843023138",
+                "visible": true,
+                "x": 755,
+                "y": 302,
+                "timestamp": "Tue May 16 2023 17:28:55 GMT+0100"
+            },
+            {
+                "nodeID": "14_169254084843023138",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "15_169254084843023138",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "16_169254084843023138",
+                "visible": true,
+                "x": 410,
+                "y": 317,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "17_169254084843023138",
+                "visible": true,
+                "x": 155,
+                "y": 268,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "18_169254084843023138",
+                "visible": true,
+                "x": 768,
+                "y": 267,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "19_169254084843023138",
+                "visible": true,
+                "x": 462,
+                "y": 270,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "20_169254084843023138",
+                "visible": true,
+                "x": 171,
+                "y": 431,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "21_169254084843023138",
+                "visible": true,
+                "x": 742,
+                "y": 425,
+                "timestamp": "Tue May 16 2023 17:29:03 GMT+0100"
+            },
+            {
+                "nodeID": "22_169254084843023138",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "23_169254084843023138",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "24_169254084843023138",
+                "visible": true,
+                "x": 454,
+                "y": 435,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "25_169254084843023138",
+                "visible": true,
+                "x": 164,
+                "y": 388,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "26_169254084843023138",
+                "visible": true,
+                "x": 748,
+                "y": 385,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "27_169254084843023138",
+                "visible": true,
+                "x": 455,
+                "y": 391,
+                "timestamp": ""
+            }
+        ],
+        "edges": [
+            {
+                "fromID": "4_169254084843023138",
+                "toID": "3_169254084843023138",
+                "visible": false
+            },
+            {
+                "fromID": "5_169254084843023138",
+                "toID": "4_169254084843023138",
+                "visible": false
+            },
+            {
+                "fromID": "3_169254084843023138",
+                "toID": "6_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "6_169254084843023138",
+                "toID": "2_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "9_169254084843023138",
+                "toID": "8_169254084843023138",
+                "visible": false
+            },
+            {
+                "fromID": "10_169254084843023138",
+                "toID": "9_169254084843023138",
+                "visible": false
+            },
+            {
+                "fromID": "8_169254084843023138",
+                "toID": "11_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "11_169254084843023138",
+                "toID": "7_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "14_169254084843023138",
+                "toID": "13_169254084843023138",
+                "visible": false
+            },
+            {
+                "fromID": "15_169254084843023138",
+                "toID": "14_169254084843023138",
+                "visible": false
+            },
+            {
+                "fromID": "13_169254084843023138",
+                "toID": "16_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "16_169254084843023138",
+                "toID": "12_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "12_169254084843023138",
+                "toID": "17_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "17_169254084843023138",
+                "toID": "7_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "8_169254084843023138",
+                "toID": "18_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "18_169254084843023138",
+                "toID": "13_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "18_169254084843023138",
+                "toID": "19_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "19_169254084843023138",
+                "toID": "17_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "22_169254084843023138",
+                "toID": "21_169254084843023138",
+                "visible": false
+            },
+            {
+                "fromID": "23_169254084843023138",
+                "toID": "22_169254084843023138",
+                "visible": false
+            },
+            {
+                "fromID": "21_169254084843023138",
+                "toID": "24_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "24_169254084843023138",
+                "toID": "20_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "12_169254084843023138",
+                "toID": "25_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "25_169254084843023138",
+                "toID": "20_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "13_169254084843023138",
+                "toID": "26_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "26_169254084843023138",
+                "toID": "21_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "26_169254084843023138",
+                "toID": "27_169254084843023138",
+                "visible": true
+            },
+            {
+                "fromID": "27_169254084843023138",
+                "toID": "25_169254084843023138",
+                "visible": true
+            }
+        ]
+    }
+}

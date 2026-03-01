@@ -1,0 +1,492 @@
+{
+    "AIF": {
+        "nodes": [
+            {
+                "nodeID": "17_169333727403677544",
+                "text": "Female 2 might be right about the affair theory",
+                "type": "I"
+            },
+            {
+                "nodeID": "18_169333727403677544",
+                "text": "Female 1: I feel like you might be right about this affair theory",
+                "type": "L"
+            },
+            {
+                "nodeID": "19_169333727403677544",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "20_169333727403677544",
+                "text": "Amelie: Female 1: I feel like you might be right about this affair theory",
+                "type": "L"
+            },
+            {
+                "nodeID": "21_169333727403677544",
+                "text": "Hypothesising",
+                "type": "YA"
+            },
+            {
+                "nodeID": "31_169333727403677544",
+                "text": "let's see if Female 2 is right about the affair theory",
+                "type": "I"
+            },
+            {
+                "nodeID": "32_169333727403677544",
+                "text": "Female 1: let's see",
+                "type": "L"
+            },
+            {
+                "nodeID": "33_169333727403677544",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "34_169333727403677544",
+                "text": "Amelie: Female 1: let's see",
+                "type": "L"
+            },
+            {
+                "nodeID": "35_169333727403677544",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "36_169333727403677544",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "38_169333727403677544",
+                "text": "Default Rephrase",
+                "type": "MA"
+            },
+            {
+                "nodeID": "39_169333727403677544",
+                "text": "Restating",
+                "type": "YA"
+            }
+        ],
+        "edges": [
+            {
+                "edgeID": 1,
+                "fromID": "19_169333727403677544",
+                "toID": "18_169333727403677544"
+            },
+            {
+                "edgeID": 2,
+                "fromID": "20_169333727403677544",
+                "toID": "19_169333727403677544"
+            },
+            {
+                "edgeID": 3,
+                "fromID": "18_169333727403677544",
+                "toID": "21_169333727403677544"
+            },
+            {
+                "edgeID": 4,
+                "fromID": "21_169333727403677544",
+                "toID": "17_169333727403677544"
+            },
+            {
+                "edgeID": 5,
+                "fromID": "33_169333727403677544",
+                "toID": "32_169333727403677544"
+            },
+            {
+                "edgeID": 6,
+                "fromID": "34_169333727403677544",
+                "toID": "33_169333727403677544"
+            },
+            {
+                "edgeID": 7,
+                "fromID": "32_169333727403677544",
+                "toID": "35_169333727403677544"
+            },
+            {
+                "edgeID": 8,
+                "fromID": "35_169333727403677544",
+                "toID": "31_169333727403677544"
+            },
+            {
+                "edgeID": 9,
+                "fromID": "18_169333727403677544",
+                "toID": "36_169333727403677544"
+            },
+            {
+                "edgeID": 10,
+                "fromID": "36_169333727403677544",
+                "toID": "32_169333727403677544"
+            },
+            {
+                "edgeID": 11,
+                "fromID": "31_169333727403677544",
+                "toID": "38_169333727403677544"
+            },
+            {
+                "edgeID": 12,
+                "fromID": "38_169333727403677544",
+                "toID": "17_169333727403677544"
+            },
+            {
+                "edgeID": 13,
+                "fromID": "36_169333727403677544",
+                "toID": "39_169333727403677544"
+            },
+            {
+                "edgeID": 14,
+                "fromID": "39_169333727403677544",
+                "toID": "38_169333727403677544"
+            }
+        ],
+        "schemefulfillments": [
+            {
+                "nodeID": "19_169333727403677544",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "21_169333727403677544",
+                "schemeID": "410"
+            },
+            {
+                "nodeID": "33_169333727403677544",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "35_169333727403677544",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "36_169333727403677544",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "38_169333727403677544",
+                "schemeID": "144"
+            },
+            {
+                "nodeID": "39_169333727403677544",
+                "schemeID": "101"
+            }
+        ],
+        "participants": [
+            {
+                "participantID": 1,
+                "firstname": "Participant",
+                "surname": "Rachel"
+            },
+            {
+                "participantID": 2,
+                "firstname": "Participant",
+                "surname": "Carolyn"
+            },
+            {
+                "participantID": 3,
+                "firstname": "Participant",
+                "surname": "Mo"
+            },
+            {
+                "participantID": 4,
+                "firstname": "Participant",
+                "surname": "Zoe"
+            },
+            {
+                "participantID": 5,
+                "firstname": "Participant",
+                "surname": "Claire"
+            },
+            {
+                "participantID": 6,
+                "firstname": "Participant",
+                "surname": "Lee"
+            },
+            {
+                "participantID": 7,
+                "firstname": "Participant",
+                "surname": "Sally"
+            },
+            {
+                "participantID": 8,
+                "firstname": "Participant",
+                "surname": "Kalbir"
+            },
+            {
+                "participantID": 9,
+                "firstname": "Participant",
+                "surname": "Alice"
+            },
+            {
+                "participantID": 10,
+                "firstname": "Anne",
+                "surname": "Robinson"
+            },
+            {
+                "participantID": 11,
+                "firstname": "Diane",
+                "surname": "Munday"
+            },
+            {
+                "participantID": 12,
+                "firstname": "Neena",
+                "surname": "Modi"
+            },
+            {
+                "participantID": 13,
+                "firstname": "David",
+                "surname": "Steel"
+            },
+            {
+                "participantID": 14,
+                "firstname": "Neil",
+                "surname": "Lyndon"
+            },
+            {
+                "participantID": 15,
+                "firstname": "Female",
+                "surname": "3"
+            },
+            {
+                "participantID": 16,
+                "firstname": "Female",
+                "surname": "1"
+            },
+            {
+                "participantID": 17,
+                "firstname": "police",
+                "surname": "report"
+            },
+            {
+                "participantID": 18,
+                "firstname": "Female",
+                "surname": "2"
+            },
+            {
+                "participantID": 19,
+                "firstname": "the",
+                "surname": "coroner"
+            },
+            {
+                "participantID": 20,
+                "firstname": "Dale",
+                "surname": "Lynch"
+            },
+            {
+                "participantID": 21,
+                "firstname": "Unknown",
+                "surname": "Speaker"
+            },
+            {
+                "participantID": 22,
+                "firstname": "Police",
+                "surname": "Report"
+            },
+            {
+                "participantID": 23,
+                "firstname": "Witness",
+                "surname": "Statement"
+            },
+            {
+                "participantID": 24,
+                "firstname": "Report",
+                "surname": ""
+            },
+            {
+                "participantID": 25,
+                "firstname": "Carmen",
+                "surname": ""
+            },
+            {
+                "participantID": 26,
+                "firstname": "Joan",
+                "surname": "Campbell"
+            }
+        ],
+        "locutions": [
+            {
+                "nodeID": "18_169333727403677544",
+                "personID": 16,
+                "start": "2023-05-16 17:44:06",
+                "end": null
+            },
+            {
+                "nodeID": "32_169333727403677544",
+                "personID": 16,
+                "start": "2023-05-16 17:44:14",
+                "end": null
+            }
+        ],
+        "descriptorfulfillments": [],
+        "cqdescriptorfulfillments": []
+    },
+    "text": "<div>Part 70:&nbsp;</div><div>F1:\t[2023/05/16 17:43:29 GMT+0000] A back seven.</div><div>F2\tT.&nbsp;</div><div>F3:\tOh.&nbsp;</div><div>F2:\tSo it might be Whitmount or something, whit\u2026&nbsp;</div><div>F1:\tWithout, maybe it was meant to be?\n\n\tLet's see.\n\n\t<span id=\"node18_169333727403677544\" class=\"highlighted\">I feel like you might be right about this affair theory</span>, but <span id=\"node32_169333727403677544\" class=\"highlighted\">let's see</span>.\n\n\tC back four.&nbsp;</div><div>F2:\tY.&nbsp;</div><div>F1:\tB back seven.&nbsp;</div><div>F2:\tSorry, one, two, three, four, five, six, seven, U.  Oh yeah, yeah.&nbsp;</div><div>F1:\tV back four.&nbsp;</div><div>F2:\tV back, one, two, three, four, R.  [inaudible] \n\n[00:01:22]: of course.  I know, you miss\u2026&nbsp;</div><div>F1:\tWe're just us, without your, and then there's a second line.\n\nF2:&nbsp;</div><div>Oh, okay.  You poor thing.&nbsp;</div><div>F1:\tFour oh seven.  O back, zero, right, okay, S back seven.&nbsp;</div><div>F2:\tOne, two, three, four, five, six, seven, L.&nbsp;</div><div>F1:\tH back four.&nbsp;</div><div>F2:\tOne, two, three four, D.&nbsp;</div><div>F1:\tThis could have been so much more succinct, this message.  I mean honestly we just\u2026so 407, 4\u2026H back seven.&nbsp;</div><div>F2:\tOne, two, three, four, five, six, seven, A.\n\n\tIf it's \n\n[00:02:08]: [inaudible] we'll cut that out.&nbsp;</div><div>F1:\tR back four.&nbsp;</div><div>F2:\tR back four.  One, two, three, four, N.  Old man.&nbsp;</div><div>F1:\tOld man?\n\n\tFour\u2026U back seven.&nbsp;</div><div>F2:\tOne, two, three, four, five, six, seven, N.&nbsp;</div><div>F1:\tIs that your older man in\u2026?  Seven, 407\u2026X back four.&nbsp;</div><div>F2:\tX?  One, two, three, four, T.\n\n\tUnless it's a signed confession, I'm not sure it's worth it.&nbsp;</div><div>F1:\t[00:02:29]: L back seven.</div>",
+    "OVA": {
+        "firstname": "Rebecca",
+        "surname": "Raddatz",
+        "url": "",
+        "nodes": [
+            {
+                "nodeID": "17_169333727403677544",
+                "visible": true,
+                "x": 164,
+                "y": 64,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "18_169333727403677544",
+                "visible": true,
+                "x": 642,
+                "y": 60,
+                "timestamp": "Tue May 16 2023 19:44:06 GMT+0200"
+            },
+            {
+                "nodeID": "19_169333727403677544",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "20_169333727403677544",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "21_169333727403677544",
+                "visible": true,
+                "x": 416,
+                "y": 72,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "31_169333727403677544",
+                "visible": true,
+                "x": 150,
+                "y": 168,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "32_169333727403677544",
+                "visible": true,
+                "x": 674,
+                "y": 161,
+                "timestamp": "Tue May 16 2023 19:44:14 GMT+0200"
+            },
+            {
+                "nodeID": "33_169333727403677544",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "34_169333727403677544",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "35_169333727403677544",
+                "visible": true,
+                "x": 454,
+                "y": 169,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "36_169333727403677544",
+                "visible": true,
+                "x": 671,
+                "y": 112,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "38_169333727403677544",
+                "visible": true,
+                "x": 167,
+                "y": 127,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "39_169333727403677544",
+                "visible": true,
+                "x": 414,
+                "y": 134,
+                "timestamp": ""
+            }
+        ],
+        "edges": [
+            {
+                "fromID": "19_169333727403677544",
+                "toID": "18_169333727403677544",
+                "visible": false
+            },
+            {
+                "fromID": "20_169333727403677544",
+                "toID": "19_169333727403677544",
+                "visible": false
+            },
+            {
+                "fromID": "18_169333727403677544",
+                "toID": "21_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "21_169333727403677544",
+                "toID": "17_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "33_169333727403677544",
+                "toID": "32_169333727403677544",
+                "visible": false
+            },
+            {
+                "fromID": "34_169333727403677544",
+                "toID": "33_169333727403677544",
+                "visible": false
+            },
+            {
+                "fromID": "32_169333727403677544",
+                "toID": "35_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "35_169333727403677544",
+                "toID": "31_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "18_169333727403677544",
+                "toID": "36_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "36_169333727403677544",
+                "toID": "32_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "31_169333727403677544",
+                "toID": "38_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "38_169333727403677544",
+                "toID": "17_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "36_169333727403677544",
+                "toID": "39_169333727403677544",
+                "visible": true
+            },
+            {
+                "fromID": "39_169333727403677544",
+                "toID": "38_169333727403677544",
+                "visible": true
+            }
+        ]
+    }
+}

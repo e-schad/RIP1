@@ -1,0 +1,225 @@
+{
+    "AIF": {
+        "nodes": [
+            {
+                "nodeID": "2_169290583475218163",
+                "text": "he is a man",
+                "type": "I"
+            },
+            {
+                "nodeID": "3_169290583475218163",
+                "text": "Female 3: she's a man right",
+                "type": "L"
+            },
+            {
+                "nodeID": "4_169290583475218163",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "5_169290583475218163",
+                "text": "Anon: Female 3: she's a man right",
+                "type": "L"
+            },
+            {
+                "nodeID": "6_169290583475218163",
+                "text": "Assertive Questioning",
+                "type": "YA"
+            }
+        ],
+        "edges": [
+            {
+                "edgeID": 1,
+                "fromID": "4_169290583475218163",
+                "toID": "3_169290583475218163"
+            },
+            {
+                "edgeID": 2,
+                "fromID": "5_169290583475218163",
+                "toID": "4_169290583475218163"
+            },
+            {
+                "edgeID": 3,
+                "fromID": "3_169290583475218163",
+                "toID": "6_169290583475218163"
+            },
+            {
+                "edgeID": 4,
+                "fromID": "6_169290583475218163",
+                "toID": "2_169290583475218163"
+            }
+        ],
+        "schemefulfillments": [
+            {
+                "nodeID": "4_169290583475218163",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "6_169290583475218163",
+                "schemeID": "73"
+            }
+        ],
+        "participants": [
+            {
+                "participantID": 1,
+                "firstname": "Participant",
+                "surname": "Rachel"
+            },
+            {
+                "participantID": 2,
+                "firstname": "Participant",
+                "surname": "Carolyn"
+            },
+            {
+                "participantID": 3,
+                "firstname": "Participant",
+                "surname": "Mo"
+            },
+            {
+                "participantID": 4,
+                "firstname": "Participant",
+                "surname": "Zoe"
+            },
+            {
+                "participantID": 5,
+                "firstname": "Participant",
+                "surname": "Claire"
+            },
+            {
+                "participantID": 6,
+                "firstname": "Participant",
+                "surname": "Lee"
+            },
+            {
+                "participantID": 7,
+                "firstname": "Participant",
+                "surname": "Sally"
+            },
+            {
+                "participantID": 8,
+                "firstname": "Participant",
+                "surname": "Kalbir"
+            },
+            {
+                "participantID": 9,
+                "firstname": "Participant",
+                "surname": "Alice"
+            },
+            {
+                "participantID": 10,
+                "firstname": "Anne",
+                "surname": "Robinson"
+            },
+            {
+                "participantID": 11,
+                "firstname": "Diane",
+                "surname": "Munday"
+            },
+            {
+                "participantID": 12,
+                "firstname": "Neena",
+                "surname": "Modi"
+            },
+            {
+                "participantID": 13,
+                "firstname": "David",
+                "surname": "Steel"
+            },
+            {
+                "participantID": 14,
+                "firstname": "Neil",
+                "surname": "Lyndon"
+            },
+            {
+                "participantID": 15,
+                "firstname": "Female",
+                "surname": "3"
+            },
+            {
+                "participantID": 16,
+                "firstname": "Female",
+                "surname": "1"
+            },
+            {
+                "participantID": 17,
+                "firstname": "Female",
+                "surname": "2"
+            }
+        ],
+        "locutions": [
+            {
+                "nodeID": "3_169290583475218163",
+                "personID": 15,
+                "start": "2023-05-16 17:02:56",
+                "end": null
+            }
+        ],
+        "descriptorfulfillments": [],
+        "cqdescriptorfulfillments": []
+    },
+    "text": "F2:\t[2023/05/16 17:02:54 GMT+0000] Okay.<br><br>F3:\tBut still <span id=\"node3_169290583475218163\" class=\"highlighted\">she's a man right</span>?<br><br>F1:\tCan we\u2026so it might be this, right, this might be quite an easy code to crack.&nbsp; Do we have?&nbsp; Yeah, we have paper.<br><br>F2:\tYou say it's an easy code to crack.<br><br>F1:\tWell I don't know, but let's see.&nbsp; Let's just shift one, what's the letter before X, if we just do exactly what it says.<br><br>F2:\tOh, yeah, okay.&nbsp;&nbsp;<br><br>F1:\tYeah, let's write out the alphabet, it's easier<br><br>F2:\tWe'll look at the map guys.<br><br>F1:\tNo, not yet, I'm just thinking, this was the initial letter, so let's just kind of\u2026<br><br>F3:\tDecember 304, okay.&nbsp; Let's start at the 304.<br><br>F1:\tYeah, this envelope would be good to figure out as well.&nbsp; Okay.&nbsp; So before x, what is the letter for x?<br><br>F2:\tX?&nbsp; Oh sorry, U, V, W, X, Y, Z.<br><br>F1:\tW?<br><br>F2:\tYeah, W.&nbsp; So I wonder if you just wrote the\u2026if we wrote, which way would you then transpose the\u2026?<br><br>F1:\tSo it shifts one, so B becomes A.<br><br>F2:\tB becomes A, so B, C, D, E\u2026<br><br>F1:\tSo if I tell you a letter, and you look it up, maybe is that the fastest way to do this?<br><br>F2:\t[00:00:50]: Yeah.<br>",
+    "OVA": {
+        "firstname": "Anon",
+        "surname": "User",
+        "url": "",
+        "nodes": [
+            {
+                "nodeID": "2_169290583475218163",
+                "visible": true,
+                "x": 150,
+                "y": 89,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "3_169290583475218163",
+                "visible": true,
+                "x": 762,
+                "y": 89,
+                "timestamp": "Tue May 16 2023 18:02:56 GMT+0100"
+            },
+            {
+                "nodeID": "4_169290583475218163",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "5_169290583475218163",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "6_169290583475218163",
+                "visible": true,
+                "x": 419,
+                "y": 89,
+                "timestamp": ""
+            }
+        ],
+        "edges": [
+            {
+                "fromID": "4_169290583475218163",
+                "toID": "3_169290583475218163",
+                "visible": false
+            },
+            {
+                "fromID": "5_169290583475218163",
+                "toID": "4_169290583475218163",
+                "visible": false
+            },
+            {
+                "fromID": "3_169290583475218163",
+                "toID": "6_169290583475218163",
+                "visible": true
+            },
+            {
+                "fromID": "6_169290583475218163",
+                "toID": "2_169290583475218163",
+                "visible": true
+            }
+        ]
+    }
+}
