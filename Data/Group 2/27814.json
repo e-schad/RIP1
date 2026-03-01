@@ -1,0 +1,1564 @@
+{
+    "AIF": {
+        "nodes": [
+            {
+                "nodeID": "2_169229993985595960",
+                "text": "Carmen's back was not to the door",
+                "type": "I"
+            },
+            {
+                "nodeID": "3_169229993985595960",
+                "text": "Male 2: Her back was not to the door",
+                "type": "L"
+            },
+            {
+                "nodeID": "4_169229993985595960",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "5_169229993985595960",
+                "text": "Anon: Male 2: Her back was not to the door",
+                "type": "L"
+            },
+            {
+                "nodeID": "6_169229993985595960",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "8_169229993985595960",
+                "text": "Carmen's back was to the door so she didn't see anyone",
+                "type": "I"
+            },
+            {
+                "nodeID": "9_169229993985595960",
+                "text": "Female 1: my back was to the door so I didn't see anyone",
+                "type": "L"
+            },
+            {
+                "nodeID": "10_169229993985595960",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "11_169229993985595960",
+                "text": "Anon: Female 1: my back was to the door so I didn't see anyone",
+                "type": "L"
+            },
+            {
+                "nodeID": "13_169229993985595960",
+                "text": "Carmen Unkown: my back was to the door so I didn't see anyone",
+                "type": "L"
+            },
+            {
+                "nodeID": "14_169229993985595960",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "15_169229993985595960",
+                "text": "Anon: Carmen Unkown: my back was to the door so I didn't see anyone",
+                "type": "L"
+            },
+            {
+                "nodeID": "16_169229993985595960",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "17_169229993985595960",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "18_169229993985595960",
+                "text": "Default Conflict",
+                "type": "CA"
+            },
+            {
+                "nodeID": "19_169229993985595960",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "20_169229993985595960",
+                "text": "Disagreeing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "21_169229993985595960",
+                "text": "Carmen lied",
+                "type": "I"
+            },
+            {
+                "nodeID": "22_169229993985595960",
+                "text": "Male 2: Lies",
+                "type": "L"
+            },
+            {
+                "nodeID": "23_169229993985595960",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "24_169229993985595960",
+                "text": "Anon: Male 2: Lies",
+                "type": "L"
+            },
+            {
+                "nodeID": "25_169229993985595960",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "26_169229993985595960",
+                "text": "Default Inference",
+                "type": "RA"
+            },
+            {
+                "nodeID": "27_169229993985595960",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "29_169229993985595960",
+                "text": "Arguing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "30_169229993985595960",
+                "text": "xxx was in the bag Carmen found",
+                "type": "I"
+            },
+            {
+                "nodeID": "31_169229993985595960",
+                "text": "Male 2: What was in the bag again",
+                "type": "L"
+            },
+            {
+                "nodeID": "32_169229993985595960",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "33_169229993985595960",
+                "text": "Anon: Male 2: What was in the bag again",
+                "type": "L"
+            },
+            {
+                "nodeID": "34_169229993985595960",
+                "text": "Pure Questioning",
+                "type": "YA"
+            },
+            {
+                "nodeID": "35_169229993985595960",
+                "text": "the testament, and correspondence was in the bag Carmen found",
+                "type": "I"
+            },
+            {
+                "nodeID": "36_169229993985595960",
+                "text": "Male 1: The testament, and correspondence",
+                "type": "L"
+            },
+            {
+                "nodeID": "37_169229993985595960",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "38_169229993985595960",
+                "text": "Anon: Male 1: The testament, and correspondence",
+                "type": "L"
+            },
+            {
+                "nodeID": "39_169229993985595960",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "40_169229993985595960",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "44_169229993985595960",
+                "text": "Female 1: \tYeah",
+                "type": "L"
+            },
+            {
+                "nodeID": "45_169229993985595960",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "46_169229993985595960",
+                "text": "Anon: Female 1: \tYeah",
+                "type": "L"
+            },
+            {
+                "nodeID": "48_169229993985595960",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "49_169229993985595960",
+                "text": "Agreeing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "50_169229993985595960",
+                "text": "Carmen is lying about the contents of the bag she found",
+                "type": "I"
+            },
+            {
+                "nodeID": "51_169229993985595960",
+                "text": "Female 1: she's lying about that",
+                "type": "L"
+            },
+            {
+                "nodeID": "52_169229993985595960",
+                "text": "Analysing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "53_169229993985595960",
+                "text": "Anon: Female 1: she's lying about that",
+                "type": "L"
+            },
+            {
+                "nodeID": "54_169229993985595960",
+                "text": "Asserting",
+                "type": "YA"
+            },
+            {
+                "nodeID": "59_169229993985595960",
+                "text": "Default Inference",
+                "type": "RA"
+            },
+            {
+                "nodeID": "60_169229993985595960",
+                "text": "Default Transition",
+                "type": "TA"
+            },
+            {
+                "nodeID": "61_169229993985595960",
+                "text": "Arguing",
+                "type": "YA"
+            },
+            {
+                "nodeID": "63_169229993985595960",
+                "text": "Default Rephrase",
+                "type": "MA"
+            },
+            {
+                "nodeID": "64_169229993985595960",
+                "text": "Restating",
+                "type": "YA"
+            },
+            {
+                "nodeID": "65_169229993985595960",
+                "text": "Default Rephrase",
+                "type": "MA"
+            },
+            {
+                "nodeID": "66_169229993985595960",
+                "text": "Default Illocuting",
+                "type": "YA"
+            }
+        ],
+        "edges": [
+            {
+                "edgeID": 1,
+                "fromID": "4_169229993985595960",
+                "toID": "3_169229993985595960"
+            },
+            {
+                "edgeID": 2,
+                "fromID": "5_169229993985595960",
+                "toID": "4_169229993985595960"
+            },
+            {
+                "edgeID": 3,
+                "fromID": "3_169229993985595960",
+                "toID": "6_169229993985595960"
+            },
+            {
+                "edgeID": 4,
+                "fromID": "6_169229993985595960",
+                "toID": "2_169229993985595960"
+            },
+            {
+                "edgeID": 5,
+                "fromID": "10_169229993985595960",
+                "toID": "9_169229993985595960"
+            },
+            {
+                "edgeID": 6,
+                "fromID": "11_169229993985595960",
+                "toID": "10_169229993985595960"
+            },
+            {
+                "edgeID": 7,
+                "fromID": "14_169229993985595960",
+                "toID": "13_169229993985595960"
+            },
+            {
+                "edgeID": 8,
+                "fromID": "15_169229993985595960",
+                "toID": "14_169229993985595960"
+            },
+            {
+                "edgeID": 9,
+                "fromID": "13_169229993985595960",
+                "toID": "16_169229993985595960"
+            },
+            {
+                "edgeID": 10,
+                "fromID": "16_169229993985595960",
+                "toID": "8_169229993985595960"
+            },
+            {
+                "edgeID": 11,
+                "fromID": "9_169229993985595960",
+                "toID": "17_169229993985595960"
+            },
+            {
+                "edgeID": 12,
+                "fromID": "17_169229993985595960",
+                "toID": "13_169229993985595960"
+            },
+            {
+                "edgeID": 13,
+                "fromID": "2_169229993985595960",
+                "toID": "18_169229993985595960"
+            },
+            {
+                "edgeID": 14,
+                "fromID": "18_169229993985595960",
+                "toID": "8_169229993985595960"
+            },
+            {
+                "edgeID": 15,
+                "fromID": "9_169229993985595960",
+                "toID": "19_169229993985595960"
+            },
+            {
+                "edgeID": 16,
+                "fromID": "19_169229993985595960",
+                "toID": "3_169229993985595960"
+            },
+            {
+                "edgeID": 17,
+                "fromID": "19_169229993985595960",
+                "toID": "20_169229993985595960"
+            },
+            {
+                "edgeID": 18,
+                "fromID": "20_169229993985595960",
+                "toID": "18_169229993985595960"
+            },
+            {
+                "edgeID": 19,
+                "fromID": "23_169229993985595960",
+                "toID": "22_169229993985595960"
+            },
+            {
+                "edgeID": 20,
+                "fromID": "24_169229993985595960",
+                "toID": "23_169229993985595960"
+            },
+            {
+                "edgeID": 21,
+                "fromID": "22_169229993985595960",
+                "toID": "25_169229993985595960"
+            },
+            {
+                "edgeID": 22,
+                "fromID": "25_169229993985595960",
+                "toID": "21_169229993985595960"
+            },
+            {
+                "edgeID": 23,
+                "fromID": "18_169229993985595960",
+                "toID": "26_169229993985595960"
+            },
+            {
+                "edgeID": 24,
+                "fromID": "26_169229993985595960",
+                "toID": "21_169229993985595960"
+            },
+            {
+                "edgeID": 25,
+                "fromID": "3_169229993985595960",
+                "toID": "27_169229993985595960"
+            },
+            {
+                "edgeID": 26,
+                "fromID": "27_169229993985595960",
+                "toID": "22_169229993985595960"
+            },
+            {
+                "edgeID": 27,
+                "fromID": "9_169229993985595960",
+                "toID": "27_169229993985595960"
+            },
+            {
+                "edgeID": 28,
+                "fromID": "27_169229993985595960",
+                "toID": "29_169229993985595960"
+            },
+            {
+                "edgeID": 29,
+                "fromID": "29_169229993985595960",
+                "toID": "26_169229993985595960"
+            },
+            {
+                "edgeID": 30,
+                "fromID": "32_169229993985595960",
+                "toID": "31_169229993985595960"
+            },
+            {
+                "edgeID": 31,
+                "fromID": "33_169229993985595960",
+                "toID": "32_169229993985595960"
+            },
+            {
+                "edgeID": 32,
+                "fromID": "31_169229993985595960",
+                "toID": "34_169229993985595960"
+            },
+            {
+                "edgeID": 33,
+                "fromID": "34_169229993985595960",
+                "toID": "30_169229993985595960"
+            },
+            {
+                "edgeID": 34,
+                "fromID": "37_169229993985595960",
+                "toID": "36_169229993985595960"
+            },
+            {
+                "edgeID": 35,
+                "fromID": "38_169229993985595960",
+                "toID": "37_169229993985595960"
+            },
+            {
+                "edgeID": 36,
+                "fromID": "36_169229993985595960",
+                "toID": "39_169229993985595960"
+            },
+            {
+                "edgeID": 37,
+                "fromID": "39_169229993985595960",
+                "toID": "35_169229993985595960"
+            },
+            {
+                "edgeID": 38,
+                "fromID": "31_169229993985595960",
+                "toID": "40_169229993985595960"
+            },
+            {
+                "edgeID": 39,
+                "fromID": "40_169229993985595960",
+                "toID": "36_169229993985595960"
+            },
+            {
+                "edgeID": 40,
+                "fromID": "45_169229993985595960",
+                "toID": "44_169229993985595960"
+            },
+            {
+                "edgeID": 41,
+                "fromID": "46_169229993985595960",
+                "toID": "45_169229993985595960"
+            },
+            {
+                "edgeID": 42,
+                "fromID": "22_169229993985595960",
+                "toID": "48_169229993985595960"
+            },
+            {
+                "edgeID": 43,
+                "fromID": "48_169229993985595960",
+                "toID": "44_169229993985595960"
+            },
+            {
+                "edgeID": 44,
+                "fromID": "48_169229993985595960",
+                "toID": "49_169229993985595960"
+            },
+            {
+                "edgeID": 45,
+                "fromID": "49_169229993985595960",
+                "toID": "21_169229993985595960"
+            },
+            {
+                "edgeID": 46,
+                "fromID": "52_169229993985595960",
+                "toID": "51_169229993985595960"
+            },
+            {
+                "edgeID": 47,
+                "fromID": "53_169229993985595960",
+                "toID": "52_169229993985595960"
+            },
+            {
+                "edgeID": 48,
+                "fromID": "51_169229993985595960",
+                "toID": "54_169229993985595960"
+            },
+            {
+                "edgeID": 49,
+                "fromID": "54_169229993985595960",
+                "toID": "50_169229993985595960"
+            },
+            {
+                "edgeID": 50,
+                "fromID": "35_169229993985595960",
+                "toID": "59_169229993985595960"
+            },
+            {
+                "edgeID": 51,
+                "fromID": "59_169229993985595960",
+                "toID": "50_169229993985595960"
+            },
+            {
+                "edgeID": 52,
+                "fromID": "36_169229993985595960",
+                "toID": "60_169229993985595960"
+            },
+            {
+                "edgeID": 53,
+                "fromID": "60_169229993985595960",
+                "toID": "51_169229993985595960"
+            },
+            {
+                "edgeID": 54,
+                "fromID": "60_169229993985595960",
+                "toID": "61_169229993985595960"
+            },
+            {
+                "edgeID": 55,
+                "fromID": "61_169229993985595960",
+                "toID": "59_169229993985595960"
+            },
+            {
+                "edgeID": 56,
+                "fromID": "22_169229993985595960",
+                "toID": "60_169229993985595960"
+            },
+            {
+                "edgeID": 57,
+                "fromID": "50_169229993985595960",
+                "toID": "63_169229993985595960"
+            },
+            {
+                "edgeID": 58,
+                "fromID": "63_169229993985595960",
+                "toID": "21_169229993985595960"
+            },
+            {
+                "edgeID": 59,
+                "fromID": "60_169229993985595960",
+                "toID": "64_169229993985595960"
+            },
+            {
+                "edgeID": 60,
+                "fromID": "64_169229993985595960",
+                "toID": "63_169229993985595960"
+            },
+            {
+                "edgeID": 61,
+                "fromID": "35_169229993985595960",
+                "toID": "65_169229993985595960"
+            },
+            {
+                "edgeID": 62,
+                "fromID": "65_169229993985595960",
+                "toID": "30_169229993985595960"
+            },
+            {
+                "edgeID": 63,
+                "fromID": "40_169229993985595960",
+                "toID": "66_169229993985595960"
+            },
+            {
+                "edgeID": 64,
+                "fromID": "66_169229993985595960",
+                "toID": "65_169229993985595960"
+            }
+        ],
+        "schemefulfillments": [
+            {
+                "nodeID": "4_169229993985595960",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "6_169229993985595960",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "10_169229993985595960",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "14_169229993985595960",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "16_169229993985595960",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "17_169229993985595960",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "18_169229993985595960",
+                "schemeID": "71"
+            },
+            {
+                "nodeID": "19_169229993985595960",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "20_169229993985595960",
+                "schemeID": "78"
+            },
+            {
+                "nodeID": "23_169229993985595960",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "25_169229993985595960",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "26_169229993985595960",
+                "schemeID": "72"
+            },
+            {
+                "nodeID": "27_169229993985595960",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "29_169229993985595960",
+                "schemeID": "80"
+            },
+            {
+                "nodeID": "32_169229993985595960",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "34_169229993985595960",
+                "schemeID": "91"
+            },
+            {
+                "nodeID": "37_169229993985595960",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "39_169229993985595960",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "40_169229993985595960",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "45_169229993985595960",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "48_169229993985595960",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "49_169229993985595960",
+                "schemeID": "77"
+            },
+            {
+                "nodeID": "52_169229993985595960",
+                "schemeID": "75"
+            },
+            {
+                "nodeID": "54_169229993985595960",
+                "schemeID": "74"
+            },
+            {
+                "nodeID": "59_169229993985595960",
+                "schemeID": "72"
+            },
+            {
+                "nodeID": "60_169229993985595960",
+                "schemeID": "82"
+            },
+            {
+                "nodeID": "61_169229993985595960",
+                "schemeID": "80"
+            },
+            {
+                "nodeID": "63_169229993985595960",
+                "schemeID": "144"
+            },
+            {
+                "nodeID": "64_169229993985595960",
+                "schemeID": "101"
+            },
+            {
+                "nodeID": "65_169229993985595960",
+                "schemeID": "144"
+            },
+            {
+                "nodeID": "66_169229993985595960",
+                "schemeID": "168"
+            }
+        ],
+        "participants": [
+            {
+                "participantID": 1,
+                "firstname": "Participant",
+                "surname": "Rachel"
+            },
+            {
+                "participantID": 2,
+                "firstname": "Participant",
+                "surname": "Carolyn"
+            },
+            {
+                "participantID": 3,
+                "firstname": "Participant",
+                "surname": "Mo"
+            },
+            {
+                "participantID": 4,
+                "firstname": "Participant",
+                "surname": "Zoe"
+            },
+            {
+                "participantID": 5,
+                "firstname": "Participant",
+                "surname": "Claire"
+            },
+            {
+                "participantID": 6,
+                "firstname": "Participant",
+                "surname": "Lee"
+            },
+            {
+                "participantID": 7,
+                "firstname": "Participant",
+                "surname": "Sally"
+            },
+            {
+                "participantID": 8,
+                "firstname": "Participant",
+                "surname": "Kalbir"
+            },
+            {
+                "participantID": 9,
+                "firstname": "Participant",
+                "surname": "Alice"
+            },
+            {
+                "participantID": 10,
+                "firstname": "Anne",
+                "surname": "Robinson"
+            },
+            {
+                "participantID": 11,
+                "firstname": "Diane",
+                "surname": "Munday"
+            },
+            {
+                "participantID": 12,
+                "firstname": "Neena",
+                "surname": "Modi"
+            },
+            {
+                "participantID": 13,
+                "firstname": "David",
+                "surname": "Steel"
+            },
+            {
+                "participantID": 14,
+                "firstname": "Neil",
+                "surname": "Lyndon"
+            },
+            {
+                "participantID": 15,
+                "firstname": "Male",
+                "surname": "2"
+            },
+            {
+                "participantID": 16,
+                "firstname": "Female",
+                "surname": "1"
+            },
+            {
+                "participantID": 17,
+                "firstname": "Carmen",
+                "surname": "Unkown"
+            },
+            {
+                "participantID": 18,
+                "firstname": "Male",
+                "surname": "1"
+            }
+        ],
+        "locutions": [
+            {
+                "nodeID": "3_169229993985595960",
+                "personID": 15,
+                "start": "2023-05-17 16:25:21",
+                "end": null
+            },
+            {
+                "nodeID": "9_169229993985595960",
+                "personID": 16,
+                "start": "2023-05-17 16:25:17",
+                "end": null
+            },
+            {
+                "nodeID": "13_169229993985595960",
+                "personID": 17,
+                "start": null,
+                "end": null
+            },
+            {
+                "nodeID": "22_169229993985595960",
+                "personID": "15",
+                "start": "2023-05-17 16:25:23",
+                "end": null
+            },
+            {
+                "nodeID": "31_169229993985595960",
+                "personID": "15",
+                "start": "2023-05-17 16:25:48",
+                "end": null
+            },
+            {
+                "nodeID": "36_169229993985595960",
+                "personID": 18,
+                "start": "2023-05-17 16:25:50",
+                "end": null
+            },
+            {
+                "nodeID": "44_169229993985595960",
+                "personID": "16",
+                "start": "2023-05-17 16:25:52",
+                "end": null
+            },
+            {
+                "nodeID": "51_169229993985595960",
+                "personID": "16",
+                "start": "2023-05-17 16:25:53",
+                "end": null
+            }
+        ],
+        "descriptorfulfillments": [],
+        "cqdescriptorfulfillments": []
+    },
+    "text": "Part 53:\n\nF1\t[2023/05/17 16:25:01 GMT+0000]: He came out of the office and said he'd finally figured it out. But before he could explain he saw someone outside and ran off into the woods \u2013 that would be her mate she's got to do that \u2013 <span id=\"node9_169229993985595960\" class=\"highlighted\">my back was to the door so I didn't see anyone</span>. By the time I'd turned around \n[00:00:19]: [voices overlap]\u2026\n\nM2:\t<span id=\"node3_169229993985595960\" class=\"highlighted\">Her back was not to the door</span>. <span id=\"node22_169229993985595960\" class=\"highlighted\">Lies</span>.\n\nF1:\tShe's bloody\u2026 Both Nick and the devil were gone, and that was all was left was the small burning fire outside. I can't help wondering what he would have told me if he had the chance. After his death it was ruled an accident. I went through and found all the notes he'd been keeping about the devil, and a locked deposit bag I haven't even figured out how to open.\n\n\t<span id=\"node31_169229993985595960\" class=\"highlighted\">What was in the bag again</span>?\n\nM1:\t<span id=\"node36_169229993985595960\" class=\"highlighted\">The testament, and correspondence</span> about\u2026\n\nF1:<span id=\"node44_169229993985595960\" class=\"highlighted\">\tYeah</span>, <span id=\"node51_169229993985595960\" class=\"highlighted\">she's lying about that</span>. Finally \n[00:00:54]: [caught on camera?], like Nick had been trying to do for months. I took the evidence I found to the sheriff but he didn't care Nick was really chasing after someone that night. \n[00:01:02]: Official determination Nick slipped and fell, but the thing is I went out to the place where he died.",
+    "OVA": {
+        "firstname": "Anon",
+        "surname": "User",
+        "url": "",
+        "nodes": [
+            {
+                "nodeID": "2_169229993985595960",
+                "visible": true,
+                "x": 200,
+                "y": 236,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "3_169229993985595960",
+                "visible": true,
+                "x": 725,
+                "y": 248,
+                "timestamp": "Wed May 17 2023 17:25:21 GMT+0100"
+            },
+            {
+                "nodeID": "4_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "5_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "6_169229993985595960",
+                "visible": true,
+                "x": 472,
+                "y": 222,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "8_169229993985595960",
+                "visible": true,
+                "x": 186,
+                "y": 39,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "9_169229993985595960",
+                "visible": true,
+                "x": 787,
+                "y": 38,
+                "timestamp": "Wed May 17 2023 17:25:17 GMT+0100"
+            },
+            {
+                "nodeID": "10_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "11_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "13_169229993985595960",
+                "visible": true,
+                "x": 476,
+                "y": 38,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "14_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "15_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "16_169229993985595960",
+                "visible": true,
+                "x": 413,
+                "y": 109,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "17_169229993985595960",
+                "visible": true,
+                "x": 661,
+                "y": 102,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "18_169229993985595960",
+                "visible": true,
+                "x": 216,
+                "y": 142,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "19_169229993985595960",
+                "visible": true,
+                "x": 755,
+                "y": 157,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "20_169229993985595960",
+                "visible": true,
+                "x": 485,
+                "y": 160,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "21_169229993985595960",
+                "visible": true,
+                "x": 213,
+                "y": 375,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "22_169229993985595960",
+                "visible": true,
+                "x": 731,
+                "y": 390,
+                "timestamp": "Wed May 17 2023 17:25:23 GMT+0100"
+            },
+            {
+                "nodeID": "23_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "24_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "25_169229993985595960",
+                "visible": true,
+                "x": 369,
+                "y": 354,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "26_169229993985595960",
+                "visible": true,
+                "x": 101,
+                "y": 281,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "27_169229993985595960",
+                "visible": true,
+                "x": 935,
+                "y": 307,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "29_169229993985595960",
+                "visible": true,
+                "x": 509,
+                "y": 326,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "30_169229993985595960",
+                "visible": true,
+                "x": 181,
+                "y": 442,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "31_169229993985595960",
+                "visible": true,
+                "x": 631,
+                "y": 442,
+                "timestamp": "Wed May 17 2023 17:25:48 GMT+0100"
+            },
+            {
+                "nodeID": "32_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "33_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "34_169229993985595960",
+                "visible": true,
+                "x": 406,
+                "y": 442,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "35_169229993985595960",
+                "visible": true,
+                "x": 199,
+                "y": 570,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "36_169229993985595960",
+                "visible": true,
+                "x": 625,
+                "y": 557,
+                "timestamp": "Wed May 17 2023 17:25:50 GMT+0100"
+            },
+            {
+                "nodeID": "37_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "38_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "39_169229993985595960",
+                "visible": true,
+                "x": 406,
+                "y": 563,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "40_169229993985595960",
+                "visible": true,
+                "x": 637,
+                "y": 505,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "44_169229993985595960",
+                "visible": true,
+                "x": 616,
+                "y": 692,
+                "timestamp": "Wed May 17 2023 17:25:52 GMT+0100"
+            },
+            {
+                "nodeID": "45_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "46_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "48_169229993985595960",
+                "visible": true,
+                "x": 714,
+                "y": 599,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "49_169229993985595960",
+                "visible": true,
+                "x": 332,
+                "y": 647,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "50_169229993985595960",
+                "visible": true,
+                "x": 171,
+                "y": 850,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "51_169229993985595960",
+                "visible": true,
+                "x": 634,
+                "y": 865,
+                "timestamp": "Wed May 17 2023 17:25:53 GMT+0100"
+            },
+            {
+                "nodeID": "52_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "53_169229993985595960",
+                "visible": false,
+                "x": 0,
+                "y": 0,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "54_169229993985595960",
+                "visible": true,
+                "x": 378,
+                "y": 847,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "59_169229993985595960",
+                "visible": true,
+                "x": 179,
+                "y": 697,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "60_169229993985595960",
+                "visible": true,
+                "x": 763,
+                "y": 785,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "61_169229993985595960",
+                "visible": true,
+                "x": 472,
+                "y": 733,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "63_169229993985595960",
+                "visible": true,
+                "x": -46,
+                "y": 762,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "64_169229993985595960",
+                "visible": true,
+                "x": 358,
+                "y": 784,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "65_169229993985595960",
+                "visible": true,
+                "x": 198,
+                "y": 511,
+                "timestamp": ""
+            },
+            {
+                "nodeID": "66_169229993985595960",
+                "visible": true,
+                "x": 414,
+                "y": 503,
+                "timestamp": ""
+            }
+        ],
+        "edges": [
+            {
+                "fromID": "4_169229993985595960",
+                "toID": "3_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "5_169229993985595960",
+                "toID": "4_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "3_169229993985595960",
+                "toID": "6_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "6_169229993985595960",
+                "toID": "2_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "10_169229993985595960",
+                "toID": "9_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "11_169229993985595960",
+                "toID": "10_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "14_169229993985595960",
+                "toID": "13_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "15_169229993985595960",
+                "toID": "14_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "13_169229993985595960",
+                "toID": "16_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "16_169229993985595960",
+                "toID": "8_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "9_169229993985595960",
+                "toID": "17_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "17_169229993985595960",
+                "toID": "13_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "2_169229993985595960",
+                "toID": "18_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "18_169229993985595960",
+                "toID": "8_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "9_169229993985595960",
+                "toID": "19_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "19_169229993985595960",
+                "toID": "3_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "19_169229993985595960",
+                "toID": "20_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "20_169229993985595960",
+                "toID": "18_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "23_169229993985595960",
+                "toID": "22_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "24_169229993985595960",
+                "toID": "23_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "22_169229993985595960",
+                "toID": "25_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "25_169229993985595960",
+                "toID": "21_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "18_169229993985595960",
+                "toID": "26_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "26_169229993985595960",
+                "toID": "21_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "3_169229993985595960",
+                "toID": "27_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "27_169229993985595960",
+                "toID": "22_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "9_169229993985595960",
+                "toID": "27_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "27_169229993985595960",
+                "toID": "29_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "29_169229993985595960",
+                "toID": "26_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "32_169229993985595960",
+                "toID": "31_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "33_169229993985595960",
+                "toID": "32_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "31_169229993985595960",
+                "toID": "34_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "34_169229993985595960",
+                "toID": "30_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "37_169229993985595960",
+                "toID": "36_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "38_169229993985595960",
+                "toID": "37_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "36_169229993985595960",
+                "toID": "39_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "39_169229993985595960",
+                "toID": "35_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "31_169229993985595960",
+                "toID": "40_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "40_169229993985595960",
+                "toID": "36_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "45_169229993985595960",
+                "toID": "44_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "46_169229993985595960",
+                "toID": "45_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "22_169229993985595960",
+                "toID": "48_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "48_169229993985595960",
+                "toID": "44_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "48_169229993985595960",
+                "toID": "49_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "49_169229993985595960",
+                "toID": "21_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "52_169229993985595960",
+                "toID": "51_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "53_169229993985595960",
+                "toID": "52_169229993985595960",
+                "visible": false
+            },
+            {
+                "fromID": "51_169229993985595960",
+                "toID": "54_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "54_169229993985595960",
+                "toID": "50_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "35_169229993985595960",
+                "toID": "59_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "59_169229993985595960",
+                "toID": "50_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "36_169229993985595960",
+                "toID": "60_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "60_169229993985595960",
+                "toID": "51_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "60_169229993985595960",
+                "toID": "61_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "61_169229993985595960",
+                "toID": "59_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "22_169229993985595960",
+                "toID": "60_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "50_169229993985595960",
+                "toID": "63_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "63_169229993985595960",
+                "toID": "21_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "60_169229993985595960",
+                "toID": "64_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "64_169229993985595960",
+                "toID": "63_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "35_169229993985595960",
+                "toID": "65_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "65_169229993985595960",
+                "toID": "30_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "40_169229993985595960",
+                "toID": "66_169229993985595960",
+                "visible": true
+            },
+            {
+                "fromID": "66_169229993985595960",
+                "toID": "65_169229993985595960",
+                "visible": true
+            }
+        ]
+    }
+}
